@@ -11,5 +11,5 @@ FS1R Edit is an editor that uses sysex to let you choose and edit all Peformance
 
 
 FS1ReMOTE V0.2
-  FS1R Live.amxd build available. 
-  FS1R Edit.maxpat development started.
+FS1R Live.amxd build available.
+FS1R Edit.maxpat development started.
