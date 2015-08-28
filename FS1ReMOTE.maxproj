@@ -1,9 +1,9 @@
 {
 	"name" : "FS1ReMOTE",
 	"version" : 1,
-	"creationdate" : -771432112,
-	"modificationdate" : -771429461,
-	"viewrect" : [ 9.0, 45.0, 300.0, 500.0 ],
+	"creationdate" : -771432233,
+	"modificationdate" : 3523597229,
+	"viewrect" : [ 2002.0, 103.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -61,6 +61,16 @@
 			"fsedit-knob-inner-128.png" : 			{
 				"kind" : "imagefile",
 				"local" : 1
+			}
+,
+			"fs1r-logo.svg" : 			{
+				"kind" : "vectorimagefile",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Desktop",
+					"projectrelativepath" : "../../../../Desktop"
+				}
+
 			}
 
 		}

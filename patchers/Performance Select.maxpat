@@ -4,12 +4,12 @@
 		"appversion" : 		{
 			"major" : 7,
 			"minor" : 0,
-			"revision" : 1,
-			"architecture" : "x64",
+			"revision" : 4,
+			"architecture" : "x86",
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 439.0, 172.0, 285.0, 45.0 ],
+		"rect" : [ 439.0, 172.0, 554.0, 381.0 ],
 		"bgcolor" : [ 0.512388, 0.651228, 0.722984, 1.0 ],
 		"editing_bgcolor" : [ 0.512388, 0.651228, 0.722984, 1.0 ],
 		"bglocked" : 0,
@@ -57,7 +57,7 @@
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
+					"outlettype" : [ "" ],
 					"patching_rect" : [ 289.678955, 4.5, 30.0, 30.0 ],
 					"style" : ""
 				}
@@ -81,7 +81,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 234.088135, 76.166687, 203.740112, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 32.0, 42.0, 130.0, 15.0 ],
+					"presentation_rect" : [ 32.0, 31.0, 130.0, 15.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_order" : 1,
@@ -429,7 +429,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 232.748657, 157.666687, 203.740112, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 32.0, 42.0, 130.0, 15.0 ],
+					"presentation_rect" : [ 32.0, 31.0, 130.0, 15.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_order" : 4,
@@ -469,7 +469,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 232.748657, 131.166687, 203.740112, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 32.0, 42.0, 130.0, 15.0 ],
+					"presentation_rect" : [ 32.0, 31.0, 130.0, 15.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_order" : 3,
@@ -734,7 +734,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 234.088135, 102.166687, 203.740112, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 32.0, 42.0, 130.0, 15.0 ],
+					"presentation_rect" : [ 32.0, 31.0, 130.0, 15.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_order" : 2,
@@ -1441,6 +1441,15 @@
 
 			}
  ],
+		"parameters" : 		{
+			"obj-4" : [ "PrA", "PrA", 2 ],
+			"obj-56" : [ "INT", "INT", 1 ],
+			"obj-96" : [ "PrB", "PrB", 3 ],
+			"obj-97" : [ "PrC", "PrC", 4 ]
+		}
+,
+		"dependency_cache" : [  ],
+		"embedsnapshot" : 0,
 		"bgfillcolor_type" : "gradient",
 		"bgfillcolor_color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
 		"bgfillcolor_color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
